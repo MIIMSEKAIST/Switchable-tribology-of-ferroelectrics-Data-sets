@@ -4,6 +4,9 @@ Switchable tribological properties of ferroelectrics offer an alternative route 
 link of the dataset
 https://doi.org/10.26037/yareta:yqifa2kr3valpkbzzk7g6tvqlu
 
+Keyword
+Tribology, Ferroelectrics, Scanning Probe Microscopy, Flexoelectricity
+
 **Contributor**
 Cho, Seongwoo
 Gaponenko, Iaroslav
